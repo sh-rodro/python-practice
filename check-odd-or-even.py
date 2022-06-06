@@ -4,8 +4,8 @@ num = input("Enter an integer: ")
 num = int(num) 
 
 if num % 2 == 0: 
-  result = "Even" 
+    result = "Even" 
 else: 
-  result = "Odd"
+    result = "Odd"
 
 print("This number is: ", result)
