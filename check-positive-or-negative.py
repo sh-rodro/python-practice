@@ -4,8 +4,8 @@ num = input("Please type an integer: ")
 num = int(num) 
 
 if num < 0: 
-  result = "Negative" 
+    result = "Negative" 
 else: 
-  result = "Positive" 
+    result = "Positive" 
 
 print("This number is: ", result)
