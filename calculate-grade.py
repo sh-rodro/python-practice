@@ -1,5 +1,3 @@
-#python program to calculate grade
-
 marks = input("Enter your marks: ") 
 marks = int(marks) 
 
