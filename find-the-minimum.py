@@ -1,4 +1,4 @@
-#python program to the minimum of three numbers
+#python program to find the minimum of three numbers
 
 num1 = input("Enter the first number: ") 
 num2 = input("Enter the second number: ") 
