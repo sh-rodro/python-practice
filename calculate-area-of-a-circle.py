@@ -1,4 +1,4 @@
-#python program to calculate the area of a circle
+#calculate the area of a circle
 
 import math 
 
