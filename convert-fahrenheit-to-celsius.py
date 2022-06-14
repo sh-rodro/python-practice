@@ -1,4 +1,4 @@
-#python program to convert fahrenheit to celsius
+#convert fahrenheit to celsius
 
 f = input("Enter the temperature in fahrenheit: ") 
 f = float(f) 
