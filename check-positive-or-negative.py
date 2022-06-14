@@ -1,4 +1,4 @@
-#python program to check if a number is Positive or Negative
+#check if a number is Positive or Negative
 
 num = input("Please type an integer: ") 
 num = int(num) 
